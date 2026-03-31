@@ -82,7 +82,7 @@ DBConnection.java currently contains hard-coded connection details. Current valu
 ```java
 private static String jdbcURL = "jdbc:mysql://localhost:3306/userdb?useSSL=false&serverTimezone=UTC";
 private static String jdbcUsername = "root";
-private static String jdbcPassword = "nakul123";
+private static String jdbcPassword = "prashant123";
 ```
 
 What you must do:
