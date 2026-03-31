@@ -186,5 +186,5 @@ Long-term
 ---
 
 📬 Maintainer & Next Steps
-- Maintainer: nakul2611
+- Maintainer: prashant1818rr-hash
 - Repo: https://github.com/prashant1818rr-hash/JavaProjectPrashant.git
