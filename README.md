@@ -1,9 +1,5 @@
 # 🚀 JavaProject — Simple Java + MySQL User Management
 
-[![Repo Size](https://img.shields.io/github/repo-size/nakul2611/JavaProject)](https://github.com/nakul2611/JavaProject)
-[![Top Language](https://img.shields.io/github/languages/top/nakul2611/JavaProject)](https://github.com/nakul2611/JavaProject)
-[![Status](https://img.shields.io/badge/status-demo%20%2F%20learning-yellowgreen)]()
-
 A compact, focused Java learning/demo project that shows direct JDBC usage for basic user management. This README is tailored to the repository's actual contents and explains how to run, configure, secure, and evolve the project — without any Docker content.
 
 ---
