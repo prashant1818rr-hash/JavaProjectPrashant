@@ -187,4 +187,4 @@ Long-term
 
 📬 Maintainer & Next Steps
 - Maintainer: nakul2611
-- Repo: https://github.com/nakul2611/JavaProject
+- Repo: https://github.com/prashant1818rr-hash/JavaProjectPrashant.git
